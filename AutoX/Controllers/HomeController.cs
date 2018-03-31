@@ -22,7 +22,7 @@ namespace AutoX.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact PAGEE.";
 
             return View();
         }
